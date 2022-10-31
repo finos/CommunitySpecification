@@ -50,7 +50,7 @@ Develop your specification in that repository.
 
 # Best Practices.
 
-1. **Enrollment via PR and CLA bot.** Ensure that all contributors submit a Pull Request accepting the License terms to the [participants.md](participants.md) file, using the provided [pull request template](https://github.com/finos/standards-project-blueprint/blob/master/.github/PULL_REQUEST_TEMPLATE/default.md). That will trigger the [EasyCLA](https://easycla.lfx.linuxfoundation.org/)) bot to require a **Community Specification Contributor License Agreement** be signed (either by an individual contributor or by a contributor's employer, which covers the employed contributor) and in place prior to making any contribution.
+1. **Enrollment via PR and CLA bot.** Ensure that all contributors submit a Pull Request accepting the License terms to the [participants.md](participants.md) file, using the provided [pull request template](https://github.com/finos/standards-project-blueprint/blob/master/.github/PULL_REQUEST_TEMPLATE/default.md). That will trigger the [EasyCLA](https://easycla.lfx.linuxfoundation.org/) bot to require a **Community Specification Contributor License Agreement** be signed (either by an individual contributor or by a contributor's employer, which covers the employed contributor) and in place prior to making any contribution.
 
 1. **Use for specifications, not code.**  Use the Community Specification License for specification development, not code.
 
