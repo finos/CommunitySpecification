@@ -21,7 +21,7 @@ There are several ways to contribute to {standard name}:
 
 Find the next meeting on the [FINOS projects calendar](https://finos.org/calendar) and browse [past meeting minutes in GitHub](https://github.com/finos/{standard slug}/labels/meeting).
 
-* **Join the mailing list**: Communications for the {standard name} project are conducted through the {standard name}@finos.org mailing list. Please email [{standard name}@finos.org](mailto:{standard name}@finos.org) to join the mailing list.
+* **Join the mailing list**: Communications for the {standard name} project are conducted through the {standard name}@finos.org mailing list. Please email [{standard slug}@finos.org](mailto:{standard name}@finos.org) to join the mailing list.
 
 * **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://{github}.com/finos/{standard slug}/issues/new/choose)
 
