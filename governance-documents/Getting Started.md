@@ -50,14 +50,14 @@ Develop your specification in that repository.
 
 # Best Practices.
 
-1. **Enrollment via PR and CLA bot.** Ensure that all contributors submit a Pull Request accepting the License terms to the [participants.md](participants.md) file, using the provided [pull request template](https://github.com/finos/standards-project-blueprint/blob/master/.github/PULL_REQUEST_TEMPLATE/default.md). That will trigger the [EasyCLA](https://easycla.lfx.linuxfoundation.org/) bot to require a **Community Specification Contributor License Agreement** be signed (either by an individual contributor or by a contributor's employer, which covers the employed contributor) and in place prior to making any contribution.
+1. **Enrollment via PR explicit CLA signing or PR template** Ensure that all contributors submit a Pull Request accepting the License terms to the [participants.md](participants.md) fil. That will trigger the [EasyCLA](https://easycla.lfx.linuxfoundation.org/) bot to require a **Community Specification Contributor License Agreement** be signed (either by an individual contributor or by a contributor's employer, which covers the employed contributor) and in place prior to making any contribution. If less formality is requiremd, the PRs raised to enroll as participant can use the provided [pull request template](https://github.com/finos/standards-project-blueprint/blob/master/.github/PULL_REQUEST_TEMPLATE/default.md) to indicate active agreement with the CSL.
 
-1. **Use for specifications, not code.**  Use the Community Specification License for specification development, not code.
+3. **Use for specifications, not code.**  Use the Community Specification License for specification development, not code.
 
-1. **Scope.** Draft the scope with care since it sets the outer bounds of the patent commitments participants make to the specification.  If you draft it too narrowly, you may limit the functionality of the specification, especially as the project progresses.  Draft it too broadly and it may provide a barrier to participation since participants may be unwilling to agree to potentially broad patent commitments.  For guidance on drafting an appropriate Scope, you may find [ISO's guidance (see page 5)](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/how-to-write-standards.pdf "ISO How To Write Standards Guide") helpful.
+4. **Scope.** Draft the scope with care since it sets the outer bounds of the patent commitments participants make to the specification.  If you draft it too narrowly, you may limit the functionality of the specification, especially as the project progresses.  Draft it too broadly and it may provide a barrier to participation since participants may be unwilling to agree to potentially broad patent commitments.  For guidance on drafting an appropriate Scope, you may find [ISO's guidance (see page 5)](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/how-to-write-standards.pdf "ISO How To Write Standards Guide") helpful.
 
-1.  **Specification format.**  Where appropriate, use the Community Specification Template to draft your specification.
+5.  **Specification format.**  Where appropriate, use the Community Specification Template to draft your specification.
 
-1. **Develop specifications and code in separate repositories.**  Where possible, separate specifications and source code into different repositories, with the specifications under the Community Specification License and the source code under an OSI-approved open source license.  
+6. **Develop specifications and code in separate repositories.**  Where possible, separate specifications and source code into different repositories, with the specifications under the Community Specification License and the source code under an OSI-approved open source license.  
 
-1. **Develop multiple specifications in separate repositories.** When developing multiple specifications, each individual specification should be in its own repository.
+7. **Develop multiple specifications in separate repositories.** When developing multiple specifications, each individual specification should be in its own repository.
